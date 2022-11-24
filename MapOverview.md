@@ -2,6 +2,7 @@
 ![alt text](https://github.com/pgonzaleze/CumulativeEffectModelAnatomy/blob/main/Figures/MapOverview_comparison.png)
 
 * Below the central panel are buttons to "Adjust Magnitude", run the "Joe Model", or run the "Population model".
+![alt text](https://github.com/pgonzaleze/CumulativeEffectModelAnatomy/blob/main/Figures/low_panel_inMapOverview.jpg)
 * On the right side are listed the "Stressors variables", each stressor has a dynamic button that if "clicked" will display over the central panel (next to the map) the corresponding system capacity.
     * In addition, if the user, click on the icon with a "graph symbol", a new window pops-up, so that the values can be customized or edited "on the fly".
     - [Insert image here]
