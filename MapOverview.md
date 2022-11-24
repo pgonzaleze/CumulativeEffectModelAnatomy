@@ -1,5 +1,5 @@
 * As a default, the "map overview" app shows the data of the Athabasca basin with 103 HUC's (hydrologic unit code). However, the information displayed in this section is automatically adjusted according to the data [uploaded](https://github.com/pgonzaleze/JoeModelAnatomy/blob/main/UploadData.md) by the user.
-- [Insert map here]
+![alt text](https://github.com/pgonzaleze/CumulativeEffectModelAnatomy/blob/main/Figures/MapOverview_comparison.png)
 * In the central panel it is shown the map of the area of study and the corresponding HUC's. 
 * Below the central panel are buttons to "Adjust Magnitude", run the "Joe Model", or run the "Population model".
 * On the right side are listed the "Stressors variables", each stressor has a dynamic button that if "clicked" will display over the central panel (next to the map) the corresponding system capacity.
