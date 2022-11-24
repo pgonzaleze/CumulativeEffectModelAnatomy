@@ -4,9 +4,8 @@
 * Below the central panel are buttons to "Adjust Magnitude", run the "Joe Model", or run the "Population model".
 ![alt text](https://github.com/pgonzaleze/CumulativeEffectModelAnatomy/blob/main/Figures/low_panel_inMapOverview.jpg)
 * On the right side are listed the "Stressors variables", each stressor has a dynamic button that if "clicked" will display over the central panel (next to the map) the corresponding system capacity.
-    * In addition, if the user, click on the icon with a "graph symbol", a new window pops-up, so that the values can be customized or edited "on the fly".
-    - [Insert image here]
-    * 
+    * In addition, if the user, click on the icon with a "graph symbol", a new window pops-up, so that the values can be customized or edited "on the fly". In the example below the value is updated from "0" to "50".
+    ![alt text](https://github.com/pgonzaleze/CumulativeEffectModelAnatomy/blob/main/Figures/stressor-response_temp_adult_APP2.jpg)
 * Each HUC can be selected so that independent analyses can be performed if desired. For example:
     * Let´s assume the three top-most HUC are selected (will be displayed in turquoise), then the user could be able to adjust the values "on the fly" by clicking on the "Adjust Magnitude" button, but also to perform a "quick" JoeModel.
     * Notice that when the button "Adjust Magbitude" is hit, a window pops-up.
