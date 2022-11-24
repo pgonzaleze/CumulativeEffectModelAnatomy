@@ -12,6 +12,6 @@
     - [insert figure here]
     * In the pop-up window the user will see a red box with the value (in percent %) after performing a "quick JoeModel" test, with the legend "Mean System Capacity: ".
     * This is also the quickest way to visualize the System Capacity of a set of grouped HUC's.
-* Note: The app will disconect from the server after 20 min of non-use. To prevent missing the current work the user will need to update constantly the app.
-
+* Note: The app will disconnect from the server after 20 min of non-use. To prevent missing the current work the user will need to update constantly the app.
+![alt text](https://github.com/pgonzaleze/CumulativeEffectModelAnatomy/blob/main/Figures/DisconnectFromServer.jpg)
 
